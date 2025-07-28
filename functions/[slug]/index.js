@@ -112,9 +112,8 @@ const indexHtml = `<!DOCTYPE html>
     }
 
     function showError(message) {
-        errorMessage.textContent = message;
+        errorMessage.textContent =  message;
         errorMessage.style.display = 'block';
-        setTimeout(() => { errorMessage.style.display = 'none'; }, 3000);
     }
 
     document.addEventListener('click', (e) => {
