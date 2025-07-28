@@ -1,6 +1,6 @@
-# EdgeOne 短链接服务https://github.com/hobk/eo-short/blob/main/README.md
+# EdgeOne 短链接服务
 
-基于[腾讯云 EdgeOne](https://edgeone.ai/) 构建的简单快速、无服务器短链接服务。本项目使用 EdgeOne Functions 处理路由和逻辑，KV数据库
+基于腾讯云 EdgeOne构建的简单快速、无服务器短链接服务。
 
 
 ## 🚀 核心功能
