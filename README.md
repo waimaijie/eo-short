@@ -1,4 +1,4 @@
-# EdgeOne 短链接服务
+# EdgeOne 短链接服务https://github.com/hobk/eo-short/blob/main/README.md
 
 基于[腾讯云 EdgeOne](https://edgeone.ai/) 构建的简单快速、无服务器短链接服务。本项目使用 EdgeOne Functions 处理路由和逻辑，KV数据库
 
@@ -11,9 +11,11 @@
 
 ## 🔧 一键部署
 
-### 1. 点击部署按钮：
+### 1. 部署：
 
-[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https%3A%2F%2Fgithub.com%2Fhobk%2Feo-short%2F)
+[![使用国内版EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?repository-url=https%3A%2F%2Fgithub.com%2Fhobk%2Feo-short%2F)（国内版）
+
+[使用国际版部署](https://edgeone.ai/pages/new?repository-url=https%3A%2F%2Fgithub.com%2Fhobk%2Feo-short%2F)
 
 ### 2. 新建 KV 数据库
 - 进入 EdgeOne 控制台
